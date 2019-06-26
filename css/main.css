@@ -3813,10 +3813,6 @@ footer {
     .title {
         font-size: 14px
     }
-
-    .nav > li > a {
-        padding: 10px
-    }
 }
 
 
@@ -3932,6 +3928,10 @@ footer {
 @media screen and (max-width: 767px) {
     .contact {
         padding-bottom: 0
+    }
+
+    .nav > li > a {
+        padding: 10px
     }
 
     .contact .form-group {
