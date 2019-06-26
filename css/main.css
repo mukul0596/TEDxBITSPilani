@@ -3433,7 +3433,7 @@ header .container {
 }
 
 .schedule {
-    border: 2px solid #ccc;
+    border: 2px solid #eee;
     list-style-type: none;
     padding: 25px;
     overflow-y: auto;
