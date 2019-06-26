@@ -3819,7 +3819,7 @@ footer {
         padding: 2em 0;
         /* background: #eee; */
         margin: 4em 0;
-        width: 100%;
+        width: 100vw;
     }
 
     section h1 {
