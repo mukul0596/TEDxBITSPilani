@@ -3695,7 +3695,7 @@ header .container {
     right: 2rem;
     background: #fff;
     padding: 0 20px 10px;
-    z-index: 99;
+    z-index: 10;
     border: 2px solid #333;
     color: #333
 }
