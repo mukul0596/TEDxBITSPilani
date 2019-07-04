@@ -3197,7 +3197,7 @@ section .sectionBg {
     transform: skewY(-3.5deg);
     position: absolute;
     width: 100%;
-    height: 100%;
+    min-height: 100%;
     z-index: -1;
     top: 0;
     left: 0;
